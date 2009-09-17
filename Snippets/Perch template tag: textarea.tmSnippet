@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;perch:content label="${1:Text block}" type="textarea" id="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"${3: textile="${4:true}"}${5: editor="markitup"}${6: required="true"} /&gt;$0</string>
 	<key>name</key>
-	<string>Template tag: textarea</string>
+	<string>Template tag: text block</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
