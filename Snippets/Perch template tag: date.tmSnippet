@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:content label="${1:Date}" type="date" id="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"${4: format="${5:d M Y}"} /&gt;$0</string>
+	<key>name</key>
+	<string>Template tag: date</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchd</string>
+	<key>uuid</key>
+	<string>20CE9E96-644C-4523-AE61-6B2144BACEC4</string>
+</dict>
+</plist>

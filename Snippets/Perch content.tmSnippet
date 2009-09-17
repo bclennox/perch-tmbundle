@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php perch_content('${1:Label}'); ?&gt;</string>
+	<key>name</key>
+	<string>Perch content</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perch</string>
+	<key>uuid</key>
+	<string>A707C373-C2C6-4F42-AC92-AFA529EF66B2</string>
+</dict>
+</plist>

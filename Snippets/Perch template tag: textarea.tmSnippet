@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:content label="${1:Text block}" type="textarea" id="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"${3: textile="${4:true}"}${5: editor="markitup"}${6: required="true"} /&gt;$0</string>
+	<key>name</key>
+	<string>Template tag: textarea</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchb</string>
+	<key>uuid</key>
+	<string>0588D2C8-1DC1-4F3D-829A-35753E9AED95</string>
+</dict>
+</plist>
