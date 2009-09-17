@@ -54,3 +54,8 @@ Credits
 -------
 
 Inspired by [Ad Taylor](http://www.iamadtaylor.com/a-perch-textmate-bundle/)
+
+License
+-------
+
+See COPYING.
