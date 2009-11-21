@@ -44,6 +44,7 @@ Snippets
 * `perchff`: HTML `<a>` tag with `href` attribute and inner HTML created as appropriate template tags
 * `perchs`: Template tag for a `<select>` element
 * `perchd`: Template tag for a date selector
+* `percho`: Template tag for a text field meant to be used with ordering in Perch 1.2
 
 Todo
 ----
